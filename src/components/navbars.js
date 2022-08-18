@@ -18,7 +18,7 @@ class Navbars extends Component {
     return (<>
       <Navbar bg="dark" variant="dark">
         <Container fluid>
-            <Navbar.Brand href="#home">ScubaMob</Navbar.Brand>
+            <Navbar.Brand href="#home">this is ScubaMob</Navbar.Brand>
             <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
